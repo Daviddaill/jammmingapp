@@ -2,7 +2,7 @@
 
 let accessToken;
 const clientId = 'dfff605130444f389fbeaa00b089f9b1';
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://chic-mooncake-2b1fdd.netlify.app/";
 
 
 
